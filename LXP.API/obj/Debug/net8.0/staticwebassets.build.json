@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tV7lGEdRWJaB8nyt0hQFKXAzg5QMmTAzS3VPQw0LWLU=",
+  "Source": "LXP.API",
+  "BasePath": "_content/LXP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
